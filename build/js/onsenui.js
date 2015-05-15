@@ -3239,6 +3239,7 @@ if(typeof define == 'function' && define.amd) {
 } else {
     window.Hammer = Hammer;
 }
+window.Hammer = Hammer;
 
 })(window);
 /*! iScroll v5.0.6 ~ (c) 2008-2013 Matteo Spinelli ~ http://cubiq.org/license */
